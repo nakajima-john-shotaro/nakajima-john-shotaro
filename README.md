@@ -1,7 +1,7 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakajima-john-shotaro&layout=compact&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api?username=nakajima-john-shotaro&count_private=true&show_icons=true&theme=radical">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakajima-john-shotaro&layout=compact&count_private=true"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nakajima-john-shotaro&count_private=true&show_icons=true&theme=radical"> -->
 </div>
 <!--
 **nakajima-john-shotaro/nakajima-john-shotaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
